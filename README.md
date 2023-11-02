@@ -1,4 +1,4 @@
-# tetris
+# Tetris game
 
 ### ENGLISH
 This project is a game, known as Tetris, made with Python. Allows users to play with console output.
